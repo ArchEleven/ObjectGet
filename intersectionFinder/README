@@ -1,0 +1,8 @@
+intersection Finder uses OpenStreetMap data too find the GPS coordinates and names of all the intersections within a certain area. For more information on how OpenStreetMap works and how their data is stored, checked out http://wiki.openstreetmap.org/wiki/Main_Page
+
+Instructions for use:
+1. Go to http://www.openstreetmap.org/export and find the area which you want too extract the intersections from. I recommend getting the intersections for a few blocks outside your play area on every side, just in case the players wander outside too far. Usually "Manually select a different area" too get the exact area you want and then hit export.
+
+2. The downloaded file will be called "map.osm." Rename it "map.xml" and put it in the data folder. The folder current contains an example file - go ahead and delete that.
+
+3. Launch the application in processing and run it.

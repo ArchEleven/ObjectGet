@@ -136,7 +136,7 @@ double[][] landmarks = {
 };
 
 //This contains the names of every intersection. They should be in the same order as the GPS cordinants
-double[][] landmarks = {
+String[] landmarkNames = {
 "Maiden Lane and Gold St",
 "Pearl St and Frankfort St",
 "Pearl St and Robert F Wagner Sr Place",
